@@ -43,7 +43,7 @@
     "redis": "^2.8.0",
     "request": "^2.83.0",
     "requestretry": "^3.0.1",
-    "socket.io": "^2.1.1",
+    "socket.io": "^2.4.0",
     "socket.io-client": "^2.1.1"
   },
   "devDependencies": {
